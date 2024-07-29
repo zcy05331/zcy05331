@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently studying in Tsinghua University.
+- 📫 How to reach me: z-cy23@mails.tsinghua.edu.cn
+- 🌐 My personal website is www.zcysky.com
+
 <!--
 **zcy05331/zcy05331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![zcy05331's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcy05331&count_private=true&show_icons=true)
