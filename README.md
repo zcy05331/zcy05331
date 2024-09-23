@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zcy05331&theme=transparent)
 ![zcy05331's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcy05331&count_private=true&show_icons=true)
