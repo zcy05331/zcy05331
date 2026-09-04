@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently studying in Tsinghua University.
+- 🌱 I’m currently studying in Tsinghua University as a rising senior.
 - 📫 How to reach me: z-cy23@mails.tsinghua.edu.cn
 - 🌐 My personal website is www.zcysky.com
 
